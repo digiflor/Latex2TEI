@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> </title>
+            <author>Ausiàs March</author>
+            <respStmt xml:id="XXX1">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="XXX2">
+               <name> </name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="XXX3">
+               <name> </name>
+               <resp> </resp>
+            </respStmt>
+            <respStmt xml:id="XXX4">
+               <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Pending publication</publisher>
+            <date>Pending publication</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="http://www.cervantesvirtual.com/obra/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/">
+               <msIdentifier xml:id="a_Ed_1539_BnM">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric><locus></locus></rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March"s poems" synoptic
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="" />
+      </facsimile>
+   <text>
+      <body>
+        <div type="poem" xml:id="div_XXX">
+<pb n="[1r]" facs="" />
+<lg type="cobla" n="1" xml:id="Klg1" >
+<l n="1" xml:id="Kl1">
+ a Xi com çell quin lo sompnis <choice><abbr>d˝lita</abbr><expan>delita</expan></choice>
+</l>
+<l n="2" xml:id="Kl2">
+ E son delit de foll pensament ve
+</l>
+<l n="3" xml:id="Kl3">
+ Ne pren amj quel temps passat me te
+</l>
+<l n="4" xml:id="Kl4">
+ Limaginar qualtre be noy habita
+</l>
+<l n="5" xml:id="Kl5">
+ Sentint star en aguayt ma dolor
+</l>
+<l n="6" xml:id="Kl6">
+ Sabent de cert  quen ses <choice><abbr>ma˝s</abbr><expan>mans</expan></choice> he <choice><abbr>d</abbr><expan>de</expan></choice> jaure
+</l>
+<l n="7" xml:id="Kl7">
+ Temps  de venir en <choice><abbr>ningu</abbr><expan>ningun</expan></choice> bem pot caure
+</l>
+<l n="8" xml:id="Kl8">
+ \c{C}o ques no res en <choice><abbr>mj\footnote{˝mj\footnote{\textit{Titlla</abbr><expan>mj\footnote{\textit{Titllmj\footnote{\textit{Titlla</expan></choice> damunt grafia} j.} es lo mjllor
+</l>
+</lg>
+<lg type="cobla" n="2" xml:id="Klg2" >
+<l n="9" xml:id="Kl9">
+ Al temps passat me trobe <choice><abbr>gra</abbr><expan>gran</expan></choice> amor
+</l>
+<l n="10" xml:id="Kl10">
+ Amant no res pus es ya tot finjt
+</l>
+<l n="11" xml:id="Kl11">
+ <choice><abbr>Daq˝st</abbr><expan>Daquest</expan></choice> penssar  me soiorn em delit
+</l>
+<l n="12" xml:id="Kl12">
+ Mas quant lo pert sesforça ma dolor
+</l>
+<l n="13" xml:id="Kl13">
+ Si com aquell qui es jutiat amort
+</l>
+<l n="14" xml:id="Kl14">
+ E de lonch temps la sab e sa conorta
+</l>
+<l n="15" xml:id="Kl15">
+ E creurel fan queli sera storta
+</l>
+<l n="16" xml:id="Kl16">
+ El fan morir  sens un <choice><abbr>pu˝t</abbr><expan>punt</expan></choice> <choice><abbr>d</abbr><expan>de</expan></choice> recort
+</l>
+</lg>
+<pb n="[1v]" facs="" />
+<lg type="cobla" n="3" xml:id="Klg3" >
+<pb n="[*]" facs="" />
+<l n="17" xml:id="Kl17">
+ E <choice><abbr>q</abbr><expan>que</expan></choice> passas ma vidan durment
+</l>
+<pb n="[*]" facs="" />
+<l n="18" xml:id="Kl18">
+ Per enemich fentli denutxs report
+</l>
+<l n="19" xml:id="Kl19">
+ E com lo vol <choice><abbr>dalgu</abbr><expan>dalgun</expan></choice> plaer serujr
+</l>
+<l n="20" xml:id="Kl20">
+ L\'{\i}n pren axi com donab son jnfant
+</l>
+<l n="21" xml:id="Kl21">
+ Que si veri li demana <choice><abbr>plora˝t</abbr><expan>plorant</expan></choice>
+</l>
+<l n="22" xml:id="Kl22">
+ Ha tan poch seny <choice><abbr>q</abbr><expan>que</expan></choice> nol sab <choice><abbr>co˝tradir</abbr><expan>contradir</expan></choice>
+</l>
+</lg>
+<lg type="cobla" n="4" xml:id="Klg4" >
+<l n="23" xml:id="Kl23">
+ Fora mjllor ma dolor soferir
+</l>
+<l n="24" xml:id="Kl24">
+ Que no mesclar poca part <choice><abbr>d</abbr><expan>de</expan></choice> plaer
+</l>
+<l n="25" xml:id="Kl25">
+ Entre quells mals quem <choice><abbr>gita</abbr><expan>gitan</expan></choice> <choice><abbr>d</abbr><expan>de</expan></choice> saber
+</l>
+<l n="26" xml:id="Kl26">
+ Com del pensat <add place="interlinear" >passat</add> plaer <choice><abbr>m</abbr><expan>me</expan></choice> couexir
+</l>
+<l n="27" xml:id="Kl27">
+ Llas mon delit dolor se <choice><abbr>co˝uertex</abbr><expan>conuertex</expan></choice>
+</l>
+<l n="28" xml:id="Kl28">
+ Doblas la fany apres dun poch repos
+</l>
+<l n="29" xml:id="Kl29">
+ Si col malalt qui per vn <choice><abbr>plae˝t</abbr><expan>plaent</expan></choice> mos
+</l>
+<l n="30" xml:id="Kl30">
+ Tot son <choice><abbr>me˝iar</abbr><expan>meniar</expan></choice> en dolor se nodrex
+</l>
+</lg>
+<lg type="cobla" n="5" xml:id="Klg5" >
+<l n="31" xml:id="Kl31">
+ Com lermjta <choice><abbr>quinyorame˝t</abbr><expan>quinyorament</expan></choice> nol crex
+</l>
+<l n="32" xml:id="Kl32">
+ <choice><abbr>Daq˝lls</abbr><expan>Daquells</expan></choice> amichs qui tenian lo mon
+</l>
+<l n="33" xml:id="Kl33">
+ Essent lonch temps quen loch poblat no fon
+</l>
+<l n="34" xml:id="Kl34">
+ Per fortuit cas vn dells laparex
+</l>
+<l n="35" xml:id="Kl35">
+ Qui los passats plaes li renouella
+</l>
+<pb n="[2r]" facs="" />
+<l n="36" xml:id="Kl36">
+ Mas com sen part les forçat congoxar
+</l>
+<l n="37" xml:id="Kl37">
+ Lo be com futg ab grans crits mal apella
+</l>
+</lg>
+<lg type="tornada" n="6" xml:id="Klg6" >
+<l n="38" xml:id="Kl38">
+ Plena de seny quant amor es molt vella
+</l>
+<l n="39" xml:id="Kl39">
+ Absensa es lo verme qui la gasta
+</l>
+<l n="40" xml:id="Kl40">
+ Si fermetat <choice><abbr>durame˝t</abbr><expan>durament</expan></choice> no contrasta
+</l>
+<l n="41" xml:id="Kl41">
+ E creure poch si lenueios concella
+</l>
+</lg>
+</div>
+      </body>
+   </text>
+</TEI>

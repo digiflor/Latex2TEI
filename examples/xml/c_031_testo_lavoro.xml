@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> </title>
+            <author>Ausiàs March</author>
+            <respStmt xml:id="XXX1">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="XXX2">
+               <name> </name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="XXX3">
+               <name> </name>
+               <resp> </resp>
+            </respStmt>
+            <respStmt xml:id="XXX4">
+               <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Pending publication</publisher>
+            <date>Pending publication</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="http://www.cervantesvirtual.com/obra/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/">
+               <msIdentifier xml:id="a_Ed_1539_BnM">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric><locus></locus></rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March"s poems" synoptic
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="" />
+      </facsimile>
+   <text>
+      <body>
+        <div type="poem" xml:id="div_XXX">
+<lg type="cobla" n="1" xml:id="clg1" >
+<l n="1" xml:id="cl1">
+ Axi com cell / qu'n lo somni's delita
+</l>
+<l n="2" xml:id="cl2">
+ e son delit / de foll pensament ue
+</l>
+<l n="3" xml:id="cl3">
+ ne pren a mi / quil temps passat mete
+</l>
+<l n="4" xml:id="cl4">
+ l'immaginar / qu'altre be noy habita
+</l>
+<l n="5" xml:id="cl5">
+ sentint uenir / l'aguait de ma dolor
+</l>
+<l n="6" xml:id="cl6">
+ sabent de çert / quen ses mans hede jaure
+</l>
+<l n="7" xml:id="cl7">
+ temps de uenir / en ningun be'm pot caure
+</l>
+<l n="8" xml:id="cl8">
+ ço qu'es no res / enmi es lo millor.
+</l>
+</lg>
+<lg type="cobla" n="2" xml:id="clg2" >
+<l n="9" xml:id="cl9">
+ Al temps passat / me trobe gran amor
+</l>
+<l n="10" xml:id="cl10">
+ amant no res / puix es tot ia finit
+</l>
+<l n="11" xml:id="cl11">
+ d'aquest pensar / me soiorn hem delita
+</l>
+<l n="12" xml:id="cl12">
+ mas quant lo pert / se sforça ma dolor
+</l>
+<l n="13" xml:id="cl13">
+ si com aquell / qui es iutiat a mort
+</l>
+<l n="14" xml:id="cl14">
+ e de lonch temps / la sab es aconorta
+</l>
+<l n="15" xml:id="cl15">
+ e creurel fan / queli sera estorta
+</l>
+<l n="16" xml:id="cl16">
+ el fan morir / sens un punt de recort.
+</l>
+</lg>
+<pb n="[41v]" facs="" />
+<lg type="cobla" n="3" xml:id="clg3" >
+<l n="17" xml:id="cl17">
+ Plagues à deu / que mon pensar fos mort
+</l>
+<l n="18" xml:id="cl18">
+ e que passas / ma uida en durment
+</l>
+<l n="19" xml:id="cl19">
+ malament uiu / qui te son pensament
+</l>
+<l n="20" xml:id="cl20">
+ per enemich / fentli de nuigs report
+</l>
+<l n="21" xml:id="cl21">
+ e com lo uol / d'algun plaher seruir
+</l>
+<l n="22" xml:id="cl22">
+ lin pren axi / com don'ab son infant
+</l>
+<l n="23" xml:id="cl23">
+ que si ueri / li domana plorant
+</l>
+<l n="24" xml:id="cl24">
+ ha tan poch seny / que no sab contradir
+</l>
+</lg>
+<lg type="cobla" n="4" xml:id="clg4" >
+<l n="25" xml:id="cl25">
+ Fora millor / ma dolor sofferir
+</l>
+<l n="26" xml:id="cl26">
+ queno mesclar poca part de plaher
+</l>
+<l n="27" xml:id="cl27">
+ entre aquells mals / quem giten de psaber\footnote{Error per <choice><abbr>˝.}</abbr><expan>saber.}</expan></choice>
+</l>
+<l n="28" xml:id="cl28">
+ com del pensar / plaher me conue'xir
+</l>
+<l n="29" xml:id="cl29">
+ llas mon delit / dolor se conuerteix
+</l>
+<l n="30" xml:id="cl30">
+ doble's l'affany / apres d'un poch repos
+</l>
+<l n="31" xml:id="cl31">
+ si col malalt / qui per un plahent mos
+</l>
+<l n="32" xml:id="cl32">
+ rot son menjar / en dolor se nodreix
+</l>
+</lg>
+<lg type="cobla" n="5" xml:id="clg5" >
+<l n="33" xml:id="cl33">
+ Com l'hermita / qu'enyorantment nol creix
+</l>
+<l n="34" xml:id="cl34">
+ d'aquells amichs / que tenia'n lo mon
+</l>
+<l n="35" xml:id="cl35">
+ tant ha lonch temps / qu'en loch pobat no fon
+</l>
+<l n="36" xml:id="cl36">
+ per fortuit cas / un d'ells l'appareix,
+</l>
+<pb n="[42r]" facs="" />
+<l n="37" xml:id="cl37">
+ qui los passats / plahers li renouella
+</l>
+<l n="38" xml:id="cl38">
+ si quel passat / present li fa tornar
+</l>
+<l n="39" xml:id="cl39">
+ mas com sen part l'es forcat congoixar
+</l>
+<l n="40" xml:id="cl40">
+ lo be com fuig / ab gran crits mal apella
+</l>
+</lg>
+<lg type="tornada" n="6" xml:id="clg6" >
+<l n="41" xml:id="cl41">
+ Plena de seny / quant amor es molt uella
+</l>
+<l n="42" xml:id="cl42">
+ absença es / lo uerme qui la guasta
+</l>
+<l n="43" xml:id="cl43">
+ si fermetat / durament no contrasta
+</l>
+<l n="44" xml:id="cl44">
+ e creure poch / sil enueios consella
+</l>
+</lg>
+</div>
+      </body>
+   </text>
+</TEI>

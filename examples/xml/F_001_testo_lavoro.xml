@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> </title>
+            <author>Ausiàs March</author>
+            <respStmt xml:id="XXX1">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="XXX2">
+               <name> </name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="XXX3">
+               <name> </name>
+               <resp> </resp>
+            </respStmt>
+            <respStmt xml:id="XXX4">
+               <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Pending publication</publisher>
+            <date>Pending publication</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="http://www.cervantesvirtual.com/obra/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/">
+               <msIdentifier xml:id="a_Ed_1539_BnM">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric><locus></locus></rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March"s poems" synoptic
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="" />
+      </facsimile>
+   <text>
+      <body>
+        <div type="poem" xml:id="div_XXX">
+<lg type="cobla" n="1" xml:id="Flg1" >
+<l n="1" xml:id="Fl1">
+ \textparagraph\ Axi com cell / quen lo somnis delita\footnote{Aquesta poesia no
+</l>
+<l n="2" xml:id="Fl2">
+ e son delit / de foll pensament ve
+</l>
+<l n="3" xml:id="Fl3">
+ ne pren a mi / quel temps passat me te
+</l>
+<l n="4" xml:id="Fl4">
+ limaginar / que altre <choice><abbr>be</abbr><expan>ben</expan></choice> noy habita
+</l>
+<l n="5" xml:id="Fl5">
+ sentint venir / la guait de ma dolor
+</l>
+<l n="6" xml:id="Fl6">
+ sabent de cert / quen sens mans he de jaure
+</l>
+<l n="7" xml:id="Fl7">
+ temps por venir / en ningun bem pot caure
+</l>
+<l n="8" xml:id="Fl8">
+ so <choice><abbr>q</abbr><expan>que</expan></choice> no es res / en mi es lo millor /.
+</l>
+</lg>
+<lg type="cobla" n="2" xml:id="Flg2" >
+<l n="9" xml:id="Fl9">
+ Al temps passat / me trobe gran amor
+</l>
+<l n="10" xml:id="Fl10">
+ Amant no res / puis tot es ja finit
+</l>
+<l n="11" xml:id="Fl11">
+ daquest pensar / me so jorn em delit
+</l>
+<l n="12" xml:id="Fl12">
+ mas quant lo pert / sesforsa ma dolor
+</l>
+<l n="13" xml:id="Fl13">
+ si com aquel / qui es jutjat a mort
+</l>
+<l n="14" xml:id="Fl14">
+ si de lonch temps / la sap i sa conorta
+</l>
+<l n="15" xml:id="Fl15">
+ si creur$\vert{}$el fan / li sera estorta
+</l>
+<l n="16" xml:id="Fl16">
+ el fan morir sens vn punt de recort /.
+</l>
+</lg>
+<lg type="cobla" n="3" xml:id="Flg3" >
+<l n="17" xml:id="Fl17">
+ Plagues a deu / <choice><abbr>q</abbr><expan>que</expan></choice> mon pensar fos mort
+</l>
+<l n="18" xml:id="Fl18">
+ que passas / ma vida en durment
+</l>
+<l n="19" xml:id="Fl19">
+ malament viu / qui ten son pensament
+</l>
+<l n="20" xml:id="Fl20">
+ per enemich / fentli de mals ha port
+</l>
+<l n="21" xml:id="Fl21">
+ que com lo vol / de algun plaer seruir
+</l>
+<l n="22" xml:id="Fl22">
+ prenlin axi / com dona ab son infant
+</l>
+<l n="23" xml:id="Fl23">
+ que si veri / li demana plorant
+</l>
+<l n="24" xml:id="Fl24">
+ ha tant poch seni / que nol sap contradir /.
+</l>
+</lg>
+<lg type="cobla" n="4" xml:id="Flg4" >
+<pb n="[guarda v]" facs="" />
+<l n="25" xml:id="Fl25">
+ <choice><abbr>q</abbr><expan>que</expan></choice> no mesclar poca part de plaher
+</l>
+<l n="26" xml:id="Fl26">
+ entro aqueles males / quem gitem de saber
+</l>
+<l n="27" xml:id="Fl27">
+ com del plaher passat / me conve exir
+</l>
+<l n="28" xml:id="Fl28">
+ llanc mon delit / dolor se converteix
+</l>
+<l n="29" xml:id="Fl29">
+ dobles la fam apres dun poch repos
+</l>
+<l n="30" xml:id="Fl30">
+ si col malalt / que per un <add place="interlinear" >h</add> mos
+</l>
+<l n="31" xml:id="Fl31">
+ tot son menjar en dolor se nodreix
+</l>
+</lg>
+<lg type="cobla" n="5" xml:id="Flg5" >
+<l n="32" xml:id="Fl32">
+ Com lermirta / que enyorament nol creix
+</l>
+<l n="33" xml:id="Fl33">
+ daquelles amichs / <choice><abbr>q</abbr><expan>que</expan></choice> auia en lo mon
+</l>
+<l n="34" xml:id="Fl34">
+ tant ha llonch temps <choice><abbr>q</abbr><expan>que</expan></choice> en lo poblat no fon
+</l>
+<l n="35" xml:id="Fl35">
+ per cas fortuit / <choice><abbr>hu</abbr><expan>hun</expan></choice> dels li apareix
+</l>
+<l n="36" xml:id="Fl36">
+ qui los plahers / passats li renouella
+</l>
+<l n="37" xml:id="Fl37">
+ si quel passat / present li fa tornar
+</l>
+<l n="38" xml:id="Fl38">
+ mas com sens part / les forcat congoxar
+</l>
+<l n="39" xml:id="Fl39">
+ lo ben com fuig / ab grans crits malapella /.
+</l>
+</lg>
+</div>
+      </body>
+   </text>
+</TEI>

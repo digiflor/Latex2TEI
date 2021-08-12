@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> </title>
+            <author>Ausiàs March</author>
+            <respStmt xml:id="XXX1">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="XXX2">
+               <name> </name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="XXX3">
+               <name> </name>
+               <resp> </resp>
+            </respStmt>
+            <respStmt xml:id="XXX4">
+               <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Pending publication</publisher>
+            <date>Pending publication</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="http://www.cervantesvirtual.com/obra/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/">
+               <msIdentifier xml:id="a_Ed_1539_BnM">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric><locus></locus></rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March"s poems" synoptic
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="" />
+      </facsimile>
+   <text>
+      <body>
+        <div type="poem" xml:id="div_XXX">
+<pb n="[2r]" facs="" />
+<lg type="cobla" n="1" xml:id="alg1" >
+<l n="1" xml:id="al1">
+ <c rend="large" >x</c> com cell / quen lo somnys delita
+</l>
+<l n="2" xml:id="al2">
+ E son delit / de foll pensament ve
+</l>
+<l n="3" xml:id="al3">
+ Ne pren a mi / quel temps passat me te
+</l>
+<l n="4" xml:id="al4">
+ Limaginar / que altre be noy habita:
+</l>
+<l n="5" xml:id="al5">
+ Sentint venir / laguayt de ma dolor
+</l>
+<l n="6" xml:id="al6">
+ Sabent de cert / quen sens mans he de jaure
+</l>
+<l n="7" xml:id="al7">
+ Temps per venir / en ningun bem pot caure
+</l>
+<l n="8" xml:id="al8">
+ So ques no res / en mi es lo millor.
+</l>
+</lg>
+<lg type="cobla" n="2" xml:id="alg2" >
+<l n="9" xml:id="al9">
+ \textparagraph\  Al temps passat / me trobe gran amor
+</l>
+<l n="10" xml:id="al10">
+ Amant no res / puix tot es ja finit
+</l>
+<l n="11" xml:id="al11">
+ Daquest pensar / me so jorn em delit
+</l>
+<l n="12" xml:id="al12">
+ Mas quant lo pert / sesforsa ma dolor:
+</l>
+<l n="13" xml:id="al13">
+ Si com aquell / qui es jutjat a mort
+</l>
+<l n="14" xml:id="al14">
+ E de llonch temps / la sap e sa conorta
+</l>
+<l n="15" xml:id="al15">
+ E creurel fan / que li sera estorta
+</l>
+<l n="16" xml:id="al16">
+ El fan morir / sens vn punt de recort.
+</l>
+</lg>
+<pb n="[2v]" facs="" />
+<lg type="cobla" n="3" xml:id="alg3" >
+<l n="17" xml:id="al17">
+ \textparagraph\  Plagues a deu / que mon pensar fos mort
+</l>
+<l n="18" xml:id="al18">
+ E que passas / ma vida en durment
+</l>
+<l n="19" xml:id="al19">
+ Malament viu / qui te son pensament
+</l>
+<l n="20" xml:id="al20">
+ Per enemich / fentli de mals ha port:
+</l>
+<l n="21" xml:id="al21">
+ Que com lo vol / dalgun plaher seruir
+</l>
+<l n="22" xml:id="al22">
+ Prenlin axi / com dona ab son infant
+</l>
+<l n="23" xml:id="al23">
+ Que si veri / li demana plorant
+</l>
+<l n="24" xml:id="al24">
+ Ha tant poch seny / que nol sab contradir.
+</l>
+</lg>
+<lg type="cobla" n="4" xml:id="alg4" >
+<l n="25" xml:id="al25">
+ \textparagraph\  Fora millor / ma dolor soferir
+</l>
+<l n="26" xml:id="al26">
+ Que no mesclar / poca part de plaher
+</l>
+<l n="27" xml:id="al27">
+ Entre aquells mals / quem giten de saber
+</l>
+<l n="28" xml:id="al28">
+ Com del plaher / passat me conue exir:
+</l>
+<l n="29" xml:id="al29">
+ Llanc mon delit / dolor se conuerteix
+</l>
+<l n="30" xml:id="al30">
+ Dobles lafany / apres dun poch repos
+</l>
+<l n="31" xml:id="al31">
+ Si col malalt / que per vn plahent mos
+</l>
+<l n="32" xml:id="al32">
+ Tot son menjar / en dolor se nodreix
+</l>
+</lg>
+<lg type="cobla" n="5" xml:id="alg5" >
+<pb n="[3r]" facs="" />
+<l n="33" xml:id="al33">
+ Daquells amichs / que hauia enlo mon
+</l>
+<l n="34" xml:id="al34">
+ Tant ha lloch temps / que enlo poblat no fon
+</l>
+<l n="35" xml:id="al35">
+ Per cas furtuit / hu dells li apareix
+</l>
+<l n="36" xml:id="al36">
+ Qui los plahers / passats li renouella
+</l>
+<l n="37" xml:id="al37">
+ Si quel passat / present li fa tornar
+</l>
+<l n="38" xml:id="al38">
+ Mas com sen part / les forçat congoxar
+</l>
+<l n="39" xml:id="al39">
+ Lo be confuig / ab grans crits mal apella.
+</l>
+</lg>
+</div>
+      </body>
+   </text>
+</TEI>

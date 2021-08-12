@@ -1,0 +1,12 @@
+include *.in
+include *.py
+include *.rst
+include *.txt
+include *.csv
+include *.xml
+recursive-include docs *.js
+recursive-include docs *.txt
+recursive-include teimcfg *.cnf
+recursive-include teimcfg *.csv
+recursive-include teimcfg *.xml
+recursive-include utils *.py

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> </title>
+            <author>Ausiàs March</author>
+            <respStmt xml:id="XXX1">
+               <name>Rosanna Cantavella, Universitat de València</name>
+               <resp>Coordinator of LaTEX into TEI transformations</resp>
+            </respStmt>
+            <respStmt xml:id="XXX2">
+               <name> </name>
+               <resp>Changes LaTEX to TEI, coding volunteer</resp>
+            </respStmt>
+            <respStmt xml:id="XXX3">
+               <name> </name>
+               <resp> </resp>
+            </respStmt>
+            <respStmt xml:id="XXX4">
+               <name>Llúcia Martín Pasqual, Universitat d"Alacant</name>
+               <resp>Coordinator of manuscript transcription into LaTEX</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Pending publication</publisher>
+            <date>Pending publication</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc
+               corresp="http://www.cervantesvirtual.com/obra/las-obras-del-famosissimo-philosofo-y-poeta-mossen-osias-marco-cauallero-valenciano-de-nacion-catalan--0/">
+               <msIdentifier xml:id="a_Ed_1539_BnM">
+                  <repository>Biblioteca Virtual Lluís Vives - Cervantes Virtual</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <rubric><locus></locus></rubric>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="CA">Catalan</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This a TEI-XML adaptation out of the LaTEX version of Ausiàs March"s poems" synoptic
+               edition, from all witnesses.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="" />
+      </facsimile>
+   <text>
+      <body>
+        <div type="poem" xml:id="div_XXX">
+<pb n="[117v]" facs="" />
+<lg type="cobla" n="1" xml:id="Llg1" >
+<l n="1" xml:id="Ll1">
+ Axi com cell / qujn lo sompnis delita
+</l>
+<l n="2" xml:id="Ll2">
+ E son delit / defoll pensament ve
+</l>
+<l n="3" xml:id="Ll3">
+ Ne pren amj / quel temps passat mete
+</l>
+<l n="4" xml:id="Ll4">
+ Lismeginar / caltre be noy habita
+</l>
+<pb n="[118r]" facs="" />
+<l n="5" xml:id="Ll5">
+ Sabut de cert / la guayt dema dolor
+</l>
+<l n="6" xml:id="Ll6">
+ E no ignor / quen ses mans he de jaure
+</l>
+<l n="7" xml:id="Ll7">
+ Temps de venir / en dengun bem pot caure
+</l>
+<l n="8" xml:id="Ll8">
+ So ques no res / en mj es lo millor
+</l>
+</lg>
+<lg type="cobla" n="2" xml:id="Llg2" >
+<l n="9" xml:id="Ll9">
+ Altemps passat / me trobe gran amor
+</l>
+<l n="10" xml:id="Ll10">
+ Es <choice><abbr>saui\footnote{˝saui\footnote{\textit{Lectura</abbr><expan>saui\footnote{\textit{Lectursaui\footnote{\textit{Lectura</expan></choice> dificultosa i estranya a la tradició}.} no
+</l>
+<l n="11" xml:id="Ll11">
+ Aquest pensar / mes soiorn he delit
+</l>
+<l n="12" xml:id="Ll12">
+ Mas com lo pert / dobles ma gran dolor
+</l>
+<l n="13" xml:id="Ll13">
+ Si com aquell / quj es jutgat amort
+</l>
+<l n="14" xml:id="Ll14">
+ E de lonch temps / la sap essa conorta
+</l>
+<l n="15" xml:id="Ll15">
+ Elies dit / que li sera estorta
+</l>
+<l n="16" xml:id="Ll16">
+ El fan morir / sens vn jorn de recort
+</l>
+</lg>
+<lg type="cobla" n="3" xml:id="Llg3" >
+<l n="17" xml:id="Ll17">
+ Plagues adeu / que mon pensar fosmort
+</l>
+<l n="18" xml:id="Ll18">
+ E que pessas / maujda en durment
+</l>
+<l n="19" xml:id="Ll19">
+ Malament viu / qui te son pensament
+</l>
+<l n="20" xml:id="Ll20">
+ Per enemjch / fent li denuyts aport
+</l>
+<l n="21" xml:id="Ll21">
+ Ans com lo vol / dalgun plaser serujr
+</l>
+<l n="22" xml:id="Ll22">
+ Li pren axi / com donab son infant
+</l>
+<l n="23" xml:id="Ll23">
+ Que si veri / li demana plorant
+</l>
+<l n="24" xml:id="Ll24">
+ Ha tan poch seny / que nol sap contradir
+</l>
+</lg>
+<lg type="cobla" n="4" xml:id="Llg4" >
+<pb n="[118v]" facs="" />
+<l n="25" xml:id="Ll25">
+ Que no mesclar / pocha part de plaser
+</l>
+<l n="26" xml:id="Ll26">
+ Entre quells mals / quem giten de saber
+</l>
+<l n="27" xml:id="Ll27">
+ Com del plaser / pensat me couexir
+</l>
+<l n="28" xml:id="Ll28">
+ Las mon delit / dolor se conuerteix
+</l>
+<l n="29" xml:id="Ll29">
+ Dobles laffany / apres dun poch repos
+</l>
+<l n="30" xml:id="Ll30">
+ Si col malalt / quj <choice><abbr>p</abbr><expan>per</expan></choice> vn plasent mos
+</l>
+<l n="31" xml:id="Ll31">
+ Tot lo dinar / al ventrell lj podreix
+</l>
+</lg>
+<lg type="cobla" n="5" xml:id="Llg5" >
+<l n="32" xml:id="Ll32">
+ Com lermita / quenyorament nol creix
+</l>
+<l n="33" xml:id="Ll33">
+ Daquells amjchs / quauja en lo mon
+</l>
+<l n="34" xml:id="Ll34">
+ Tant ha <del rend="barred" >lo</del> loch <choice><abbr>te˝ps</abbr><expan>temps</expan></choice> / quen los
+</l>
+<l n="35" xml:id="Ll35">
+ Per fortuhjt / cas hu dells la pareix
+</l>
+<l n="36" xml:id="Ll36">
+ Quj los plasers / passats lj renouella
+</l>
+<l n="37" xml:id="Ll37">
+ Si quel passat / present lj fa tornar
+</l>
+<l n="38" xml:id="Ll38">
+ Equant sen part / les forçat congoxar
+</l>
+<l n="39" xml:id="Ll39">
+ El be com fujg / ab <choice><abbr>gra˝s</abbr><expan>grans</expan></choice> crits mal apella
+</l>
+</lg>
+<lg type="tornada" n="6" xml:id="Llg6" >
+<l n="40" xml:id="Ll40">
+ Plena de seny / amor <choice><abbr>qua˝t</abbr><expan>quant</expan></choice> es molt vella
+</l>
+<l n="41" xml:id="Ll41">
+ Abssença es / lo verme quj la guasta
+</l>
+<l n="42" xml:id="Ll42">
+ Si fermetat / durament no contrasta
+</l>
+<l n="43" xml:id="Ll43">
+ E creure poch / si lenueyos consella
+</l>
+</lg>
+</div>
+      </body>
+   </text>
+</TEI>

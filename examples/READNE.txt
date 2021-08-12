@@ -1,0 +1,52 @@
+primo test
+!!! è importante rispettare le minucole
+
+aprire il terminale NON importa in quale directopry
+
+digitare 
+poython --version
+e verifcare la versione ce sia una versione succcessiva a 3,0
+altrimenti 
+digitare 
+python3 --version
+verificare che eesista e sia una vrsione supetiore a 3.0
+ 
+se la prova vanno a buon fine
+
+digitare
+latex2tey.py -h
+compe il messaggio:
+
+sage: latex2tei.py [-h] -t  -x  -s  [-g]
+
+optional arguments:
+  -h, --help  show this help message and exit
+  -t          -t <file tex>
+  -x          -x <file xml>
+  -s          -s <sigla>
+  -g          -g [0/1] 0) disable seg 1) enable seg) default 0
+
+se NON funziona:
+andare nella dir dove si trova il file latex2tey.py -h
+
+e digitare 
+latex2tey.py -h
+
+se non funziona digitare
+
+python latex2tey.py -h
+
+se una delle prove va bene
+
+usare tutti i parametri come indicato precedentemente
+
+NB
+i nome dei parametri NON devono avere spazi bianchi
+
+
+
+
+
+
+
+
